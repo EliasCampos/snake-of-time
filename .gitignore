@@ -1,0 +1,8 @@
+# python cache
+*.pyc
+
+# IDE:
+.idea/
+
+# Virtual environment:
+.venv/
